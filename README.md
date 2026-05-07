@@ -228,5 +228,5 @@ Este projeto foi desenvolvido com foco em:
 
 # 👨‍💻 Desenvolvido por
 
-**Victor Franco**  
+**Victor Franco** e **Luana Neres**
 Software Engineer | IFMG - Campus Ouro Branco
