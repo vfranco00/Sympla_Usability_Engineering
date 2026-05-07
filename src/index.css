@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-symplaBlue: #0064C8;
+}
